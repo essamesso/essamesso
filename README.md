@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/essammahmoud245/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=L&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"/></a>
-  <a href="https://wa.me/201008789714" target="_blank">
+  <a href="https://wa.me/201014274052" target="_blank">
     <img src="https://img.shields.io/static/v1?message=whats&logo=whatsapp&label=chat&color=25D366&logoColor=white&labelColor=&style=flat" height="40" alt="whatsapp logo"  />
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=essamesso&"/>
@@ -59,7 +59,7 @@
 </h3>
 
 <p align="center">
- <a href="https://wa.me/201008789714">
+ <a href="https://wa.me/201014274052">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_23-whatsapp-256.png" width="30" height="30">
   </a>
   </a>&nbsp;&nbsp;
